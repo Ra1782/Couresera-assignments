@@ -1,2 +1,2 @@
-# Couresera-assignments
+# Coursera-assignments
 Assignments for coursera course
